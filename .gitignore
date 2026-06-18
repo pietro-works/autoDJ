@@ -1,0 +1,13 @@
+.DS_Store
+.env
+*.log
+
+.change-log.tsv
+autoDJ_private/config.php
+autoDJ_private/data/
+autoDJ_private/cron.example.txt
+
+backend-brief/
+redesign-brief/
+deploy-autodj.sh
+install-autodj-config.sh
